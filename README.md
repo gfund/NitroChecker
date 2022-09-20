@@ -1,0 +1,2 @@
+# NitroChecker
+NitroChecker Discord Bot
