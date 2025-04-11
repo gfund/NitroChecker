@@ -53,8 +53,7 @@ async def nitrocheck(ctx,*,code):
     await ctx.send("VALID!")
   else: 
     await ctx.send("INVALID!")
-  
-#pip install discord-py-slash-command
+
 
 
 
